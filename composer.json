@@ -1,5 +1,5 @@
 {
-    "name": "acurrieclark/php-password-verifier",
+    "name": "acurrieclark-fork/php-password-verifier",
     "description": "Framework agnostic password strength checker",
     "require-dev": {
         "phpunit/phpunit": "^8.0"
